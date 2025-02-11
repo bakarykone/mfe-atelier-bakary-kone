@@ -8,7 +8,7 @@ export default defineConfig({
     pluginModuleFederation({
       name: "header_mfe",
       exposes: {
-        "./header": "./src/Header.tsx",
+        "./header": "./src/header.tsx",
       },
       shared: ["react", "react-dom"],
     }),
