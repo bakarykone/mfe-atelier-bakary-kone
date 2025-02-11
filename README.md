@@ -4,7 +4,7 @@
 
 1. Cloner le dépôt :
 ```
-git clone [https://github.com/bakarykone/mfe-atelier-bakary-kone.git](https://github.com/bakarykone/mfe-atelier-bakary-kone.git)
+git clone https://github.com/bakarykone/mfe-atelier-bakary-kone.git
 ```
 2. Installer les dépendances :
 ```
