@@ -6,7 +6,9 @@
     "noEmit": true,
     "skipLibCheck": true,
     "useDefineForClassFields": true,
-
+    "paths":{
+      "*": ["./@mf-types/*"]
+    },
     /* modules */
     "module": "ESNext",
     "isolatedModules": true,
